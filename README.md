@@ -53,3 +53,5 @@ python3 extract_badge_assets.py
 ```
 
 The badge assets will be extracted to `/mnt/data/badge_assets/`.
+
+**For local development setup and custom paths, see [TECH_BADGE_SETUP.md](TECH_BADGE_SETUP.md)**.
