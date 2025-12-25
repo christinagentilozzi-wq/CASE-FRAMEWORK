@@ -39,3 +39,17 @@ python3 generate_master_system_pdf.py
 ```
 
 The PDF will be generated at `/mnt/data/UI_UX_Case_Study_Master_System_v1.pdf`.
+
+## Tech Badge Assets
+
+The `extract_badge_assets.py` script extracts the Tech Badge design assets from a ZIP archive.
+
+### Usage
+
+Place the `Design Concept for Tech Badge.zip` file in `/mnt/data/`, then run:
+
+```bash
+python3 extract_badge_assets.py
+```
+
+The badge assets will be extracted to `/mnt/data/badge_assets/`.
